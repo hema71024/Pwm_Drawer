@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "final grad", "final grad\final grad.cproj", "{77840F17-B086-4F4F-A7C9-3251EBF97F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77840F17-B086-4F4F-A7C9-3251EBF97F8B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{77840F17-B086-4F4F-A7C9-3251EBF97F8B}.Debug|AVR.Build.0 = Debug|AVR
+		{77840F17-B086-4F4F-A7C9-3251EBF97F8B}.Release|AVR.ActiveCfg = Release|AVR
+		{77840F17-B086-4F4F-A7C9-3251EBF97F8B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
